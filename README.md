@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Although I have a degree in Mechanical Engineering, I have always been connected with programming in various languages. I have experience in developing software solutions (solver, GUI, pre- and post-processing) for Computational Fluid Dynamics (CFD), including creating a specialized processor for speeding up CFD computations. Currently, I am a full-stack developer of web and mobile applications using Flutter/Dart and Golang. I enjoy building user-friendly and responsive interfaces, as well as designing and implementing efficient and scalable back-end systems.
+
 <!--
 **ksiezykm/ksiezykm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
