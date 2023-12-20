@@ -42,6 +42,8 @@
 - 💬 LinkedIn: linkedin.com/in/ksiezykm
 - :globe_with_meridians: WWW: ksiezykm.dev
 
+## Commercial projects
+
 - Marketplace - A platform that connects users with green energy companies in their area. The platform features a map-based interface that displays the offers of the companies on the map, powered by Open Street Maps. Users can interact with the map by clicking on the markers or applying filters to find the best company for their needs. The platform is developed using Flutter/Dart, Golang, MongoDB and AWS. It is currently under development.
 - Safe Storage - A system that allows users to remotely access and monitor their stored items in a secure warehouse via live video streaming. The system consists of a mobile application that enables users to authenticate using NFC tags, a web app that allows users to manage their profile and view the live video stream of their deposit, a database that stores user and deposit information, and a backend that handles user requests, communicates with the warehouse cameras, and encrypts the data using a cryptographic processor. The system is developed using Flutter/Dart, Golang and MongoDB. It is currently under development.
 - CFD SEMI - A web-based app that enables users to prepare and run computational fluid dynamics (CFD) cases on FPGA systems. The app has a user-friendly interface that allows users to upload their mesh files, select the boundary conditions, parameters, and solver settings for their CFD case. The app is developed using Flutter/Dart, Golang and MongoDB. It is available at www.cfdsemi.com.
