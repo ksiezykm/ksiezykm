@@ -1,18 +1,45 @@
-### Hi there 👋
+# Hi there, I'm Mariusz 👋
 
-Although I have a degree in Mechanical Engineering, I have always been connected with programming in various languages. I have experience in developing software solutions (solver, GUI, pre- and post-processing) for Computational Fluid Dynamics (CFD), including creating a specialized processor for speeding up CFD computations. Currently, I am a full-stack developer of web and mobile applications using Flutter/Dart and Golang. I enjoy building user-friendly and responsive interfaces, as well as designing and implementing efficient and scalable back-end systems.
+## About me
 
-<!--
-**ksiezykm/ksiezykm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I have a degree in Mechanical Engineering, but I have always been passionate about programming in various languages.
+- 💻 I have experience in developing software solutions for Computational Fluid Dynamics (CFD), including creating a specialized processor for speeding up CFD computations.
+- 🚀 Currently, I am a full-stack developer of web and mobile applications using Flutter/Dart and Golang.
+- 🌱 I enjoy building user-friendly and responsive interfaces, as well as designing and implementing efficient and scalable back-end systems.
+- 📚 I'm always eager to learn new technologies and improve my skills.
 
-Here are some ideas to get you started:
+## Technologies and languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Golang
+- Flutter/Dart
+- C++
+- C
+- FORTRAN
+- Python
+- Java
+- TDD
+- OOP
+- CUDA
+- bash
+- Linux
+- AWS
+- Docker
+- K8S
+- SQL
+- NoSQL
+- MongoDB
+- PostrgreSQL
+- HTTP
+- RestAPI
+- GIT
+- SVN
+- Latex
+- OpenFOAM
+
+## Contact me
+
+- 📧 Email: [your email address]
+- 💬 LinkedIn: [your LinkedIn profile link]
+- 🐦 Twitter: [your Twitter handle]
+- 📷 Instagram: [your Instagram username]
+- 📝 Blog: [your blog link]
