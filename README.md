@@ -38,8 +38,6 @@
 
 ## Contact me
 
-- 📧 Email: [your email address]
-- 💬 LinkedIn: [your LinkedIn profile link]
-- 🐦 Twitter: [your Twitter handle]
-- 📷 Instagram: [your Instagram username]
-- 📝 Blog: [your blog link]
+- 📧 Email: hello@ksiezykm.dev
+- 💬 LinkedIn: linkedin.com/in/ksiezykm
+- :globe_with_meridians: Blog: [your blog link]
