@@ -40,4 +40,4 @@
 
 - 📧 Email: hello@ksiezykm.dev
 - 💬 LinkedIn: linkedin.com/in/ksiezykm
-- :globe_with_meridians: Blog: [your blog link]
+- :globe_with_meridians: WWW: ksiezykm.dev
