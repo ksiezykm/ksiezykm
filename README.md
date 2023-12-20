@@ -36,12 +36,6 @@
 - Latex
 - OpenFOAM
 
-## Contact me
-
-- 📧 Email: hello@ksiezykm.dev
-- 💬 LinkedIn: linkedin.com/in/ksiezykm
-- :globe_with_meridians: WWW: ksiezykm.dev
-
 ## Commercial projects
 
 - Marketplace - A platform that connects users with green energy companies in their area. The platform features a map-based interface that displays the offers of the companies on the map, powered by Open Street Maps. Users can interact with the map by clicking on the markers or applying filters to find the best company for their needs. The platform is developed using Flutter/Dart, Golang, MongoDB and AWS. It is currently under development.
@@ -51,3 +45,9 @@
 - CFD SEMI - A web-based app that enables users to prepare and run computational fluid dynamics (CFD) cases on FPGA systems. The app has a user-friendly interface that allows users to upload their mesh files, select the boundary conditions, parameters, and solver settings for their CFD case. The app is developed using Flutter/Dart, Golang and MongoDB. It is available at www.cfdsemi.com.
   
 - iloveCFD.app - An Android app that provides several calculators for CFD engineers. The app allows users to perform various calculations related to fluid dynamics, such as Reynolds number, Mach number, pressure drop, etc. The app is developed using Flutter/Dart. It is available on Google Play.
+
+## Contact me
+
+- 📧 Email: hello@ksiezykm.dev
+- 💬 LinkedIn: linkedin.com/in/ksiezykm
+- :globe_with_meridians: WWW: ksiezykm.dev
